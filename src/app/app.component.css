@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200&family=Rancho&display=swap');
+
+.h-100{
+    height: 100vh !important;
+}
+
+.icone{
+    height: 50px;
+    width: 50px;
+    background: #8e9eab;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.citacao{
+    border-radius: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    background: #8e9eab;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Heebo', sans-serif;
+    background: url(https://picsum.photos/1280/720/?blur) center no-repeat, linear-gradient(to right, #536976, #292e49);
+    background-blend-mode: multiply;
+    color: white;
+
+}
+.frase{
+    font-size: 20px;
+}
+
+.autor{
+    font-size: 15px;
+}
